@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "invis_chainmail",
 	"version": "${version}",
-	"name": "invis_chainmail",
+	"name": "Invisible Chainmail",
 	"description": "Hides chainmail armour on invisible players.",
 	"authors": [
 		"TorNato"
